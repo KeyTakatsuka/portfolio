@@ -98,7 +98,6 @@
   }
 
   body {
-    overflow-x: hidden;
     display: flex;
     flex-direction: column;
   }
@@ -129,6 +128,7 @@
     margin: 0;
     padding: 0;
 }
+
 a.btn_03 {
   margin: 15px auto;
 	display: block;
