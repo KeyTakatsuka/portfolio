@@ -99,7 +99,7 @@
 
   body {
     display: flex;
-    flex-direction: column
+    flex-direction: column;
   }
 
   footer {
@@ -109,7 +109,6 @@
     color: #fff;
     text-align: center;
     font-size: 12px;
-
   }
 
 .back {
